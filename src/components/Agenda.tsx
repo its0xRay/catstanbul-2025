@@ -5,23 +5,23 @@ export function Agenda() {
   const agendaItems = [
     {
       icon: <Megaphone className="w-8 h-8" />,
-      title: "Major Platform Announcements",
+      title: "Major platform announcements",
     },
     {
       icon: <Users className="w-8 h-8" />,
-      title: "Key New Initiatives and Partnerships",
+      title: "Key new initiatives and partnerships",
     },
     {
       icon: <Workflow className="w-8 h-8" />,
-      title: "Highlight Existing & New Workgroups",
+      title: "Highlight existing & new workgroups",
     },
     {
       icon: <UserSquare2 className="w-8 h-8" />,
-      title: "Put Face to the Usernames",
+      title: "Put face to the usernames",
     },
     {
       icon: <FileSpreadsheet className="w-8 h-8" />,
-      title: "Crucial Processes IRL",
+      title: "Perform crucial processes IRL",
     }
   ];
 
