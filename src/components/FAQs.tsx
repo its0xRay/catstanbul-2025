@@ -7,6 +7,10 @@ export function FAQs() {
       description: "Everyone can apply. Have been contributing to Jupiverse? please apply. Relatively new to Jupiverse? please apply "
     },
     {
+      title: "What is the ticket cost of Catstanbul?",
+      description: "Tickets are free, with a refundable deposit of 99 JUP"
+    },
+    {
       title: "How to reach the Catstanbul location?",
       description: "Details Coming soon!"
     }
