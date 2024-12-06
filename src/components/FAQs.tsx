@@ -11,8 +11,8 @@ export function FAQs() {
       description: "Tickets are free, with a refundable deposit of 99 JUP"
     },
     {
-      title: "How to reach the Catstanbul location?",
-      description: "Details Coming soon!"
+      title: "What is the Catstanbul location?",
+      description: "Catstanbul 2025 will be held at Divan Kuruçeşme, a beautiful venue beside the Bosphorus Strait."
     }
   ];
 
