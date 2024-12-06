@@ -12,7 +12,7 @@ function App() {
         {/* Banner Image */}
         <div className="max-w-4xl mx-auto mb-12">
           <img
-            src="https://pbs.twimg.com/media/GdXG6qBW8AAJ2BH?format=png&name=900x900"
+            src="https://pbs.twimg.com/media/GeC4TUZaUAADwDy?format=jpg&name=medium"
             alt="Istanbul Cityscape"
             className="rounded-2xl shadow-2xl w-full"
           />
